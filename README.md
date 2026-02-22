@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐸 Atlas Client
+# ⛰️ Atlas Client
 
 **一款功能丰富的 Minecraft 1.21.1 Fabric 客户端模组**
 
